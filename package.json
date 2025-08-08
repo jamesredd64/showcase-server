@@ -1,12 +1,10 @@
 {
-  "name": "vite-admin-server",
+  "name": "showcase-server",
   "version": "1.1.3",
   "description": "Node.js Restful CRUD API with Node.js, Express and MongoDB -Auth0 Integration",
   "main": "server.js",
   "type": "commonjs",
-
-
-  "scripts": {
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "recreate-db": "node scripts/recreate-mongodb-schema.js",

@@ -3,6 +3,7 @@ const cors = require('cors');
 const allowedOrigins = [
   'https://vite-front-end.vercel.app',
   'https://showcase.vercel.app',
+  'https://showcase-cms.vercel.app',
   'https://admin-backend-eta.vercel.app',
   'https://showcase-server-nine.vercel.app/',
   'http://localhost:3000',
